@@ -4,6 +4,10 @@ public class Secretario extends Funcionario {
 	
 	int numeroDeRamal;
 
+	public Secretario(int novoRamal) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public int getNumeroDeRamal() {
 		return numeroDeRamal;
 	}
